@@ -1,6 +1,8 @@
 # Immune-System-Game
 An educational game about the immune system I made for an 8th grade science assignment
 
+I made this back when I was pretty young so the code is not really up to my standards anymore :joy:.
+
 This was coded in Lua using [LÖVE](https://love2d.org/), a 2D game engine.
 
 # How to run
